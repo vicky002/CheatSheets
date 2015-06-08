@@ -7,14 +7,16 @@ Collections of CheatSheat of Different Topics and Programming Languages!
 * [C](#b)
 * [D](#d)
 * [E](#e)
+* [J](#j)
 
 ### A
  - [.NET]() 
- - [ActionScript]() 
- - [Ada]() 
+ - [ActionScript](https://github.com/vicky002/CheatSheets/blob/master/cheats/ActionScript_pdf) 
+ - [Ada](https://github.com/vicky002/CheatSheets/blob/master/cheats/Ada_Reference.pdf) 
  - [ADO.NET]() 
  - [AJAX]() 
- - [Algebra]() 
+ - [Adobe Acrobat](https://github.com/vicky002/CheatSheets/blob/master/cheats/NET.pdf)
+ - [Algebra](https://github.com/vicky002/CheatSheets/blob/master/cheats/Algebra_Cheat_Sheet.pdf) 
  - [Apache]() 
  - [Apache Ant]() 
  - [Apache Camel]() 
@@ -82,3 +84,7 @@ Collections of CheatSheat of Different Topics and Programming Languages!
 - [Drupal]() 
 - [Drush]() 
 - [DTD]()
+
+
+### J
+- [JavaScript](https://github.com/vicky002/CheatSheets/blob/master/cheats/javascript_cheat_sheet.pdf)
