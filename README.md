@@ -14,7 +14,7 @@ Collections of CheatSheat of Different Topics and Programming Languages!
  - [ActionScript](https://github.com/vicky002/CheatSheets/blob/master/cheats/ActionScript_pdf) 
  - [Ada](https://github.com/vicky002/CheatSheets/blob/master/cheats/Ada_Reference.pdf) 
  - [ADO.NET]() 
- - [AJAX]() 
+ - [AJAX](https://github.com/vicky002/CheatSheets/blob/master/cheats/rc002-ajax_online.pdf) 
  - [Adobe Acrobat](https://github.com/vicky002/CheatSheets/blob/master/cheats/NET.pdf)
  - [Algebra](https://github.com/vicky002/CheatSheets/blob/master/cheats/Algebra_Cheat_Sheet.pdf) 
  - [Apache]() 
